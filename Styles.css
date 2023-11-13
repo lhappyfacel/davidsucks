@@ -1,6 +1,7 @@
 body {
     background-image: url(Images/harry.jpeg);
-font-family: fantasy;}
+font-family: fantasy;
+background-size: cover;}
     .text{
         width: 80px;
         background-color: white;
